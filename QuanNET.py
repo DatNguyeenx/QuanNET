@@ -3,7 +3,6 @@ from tkinter import messagebox
 from tkinter import ttk
 from PIL import Image, ImageTk
 import json
-import os
 
 
 phien_may = {}
